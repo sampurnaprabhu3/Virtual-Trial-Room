@@ -1,0 +1,10 @@
+# Virtual Environment folders
+venv/
+mp_env/
+
+# Dependency list
+requirements.txt
+
+# Configuration and large files
+.vscode/
+*.mp4
