@@ -36,6 +36,12 @@ VTR uses a live webcam feed or static image to detect a user's body landmarks (s
 
 ---
 
+## Screenshot
+
+<img width="887" height="520" alt="image" src="https://github.com/user-attachments/assets/a1325416-2e88-4069-8055-45601e4f4d1b" />
+<img width="873" height="515" alt="image" src="https://github.com/user-attachments/assets/11c80e42-9dcc-41fa-8560-58329e840595" />
+
+
 ## Getting Started
 
 ### Prerequisites
